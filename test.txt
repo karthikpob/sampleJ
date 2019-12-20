@@ -1,1 +1,2 @@
 test commands
+some text added
