@@ -1,2 +1,3 @@
 test commands
 some text added
+hello
